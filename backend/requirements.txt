@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+finance-datareader
+transformers
+torch
+scikit-learn
+python-multipart
+sqlalchemy
